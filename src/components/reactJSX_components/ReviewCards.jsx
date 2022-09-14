@@ -1,4 +1,5 @@
 import React from 'react';
+import '../../stylesheets/reviewCardStyle.css';
 
 export default function ReviewCard(props) {
   return (
