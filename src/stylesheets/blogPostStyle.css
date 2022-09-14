@@ -1,0 +1,54 @@
+h2,
+h3 {
+  font-family: ivymode, sans-serif;
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  letter-spacing: 0.05em;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 4em;
+  color: #9a8d13;
+  margin: 1rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.1rem;
+  color: #808080;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+section {
+  margin: 0 auto;
+  max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+.main-content {
+  line-height: 2em;
+}
+
+a {
+  text-decoration: none;
+}

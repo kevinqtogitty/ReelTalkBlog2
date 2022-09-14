@@ -1,0 +1,355 @@
+[
+  {
+    "title": "The Spirit of the Beehive",
+    "director": "Victor Erice",
+    "year": "1973",
+    "country": "Spain",
+    "languages": "Spanish",
+    "cast": [
+      "Fernando Fernán Gómez",
+      "Teresa Gimpera",
+      "Ana Torrent",
+      "Isabel Telleria"
+    ],
+    "key": "SOTBH",
+    "imgURL": "/thumbnails/SOTBH.jpeg",
+    "publishDate": "4/12/2022",
+    "postURL": "../posts/SOTBH"
+  },
+  {
+    "title": "That Day, on the Beach",
+    "director": "Edward Yang",
+    "year": "1983",
+    "country": "Taiwan",
+    "languages": "Mandarin",
+    "cast": ["Sylvia Chang", "Terry Hu", "David Mao", "Ming Hsu", "Lieh Lee"],
+    "key": "TDOTB",
+    "imgURL": "/thumbnails/TDOTB.jpeg",
+    "publishDate": "4/5/22",
+    "postURL": "../posts/TDOTB"
+  },
+  {
+    "title": "Last Days of Disco",
+    "director": "Whit Stillman",
+    "year": "1998",
+    "country": "United States of America",
+    "languages": "English",
+    "cast": [
+      "Chloe Sevigny",
+      "Kate Beckinsale",
+      "Chris Eigeman",
+      "Mackenzie Astin",
+      "Robert Sean Leonard",
+      "Matt Keeslar",
+      "Matt Ross",
+      "Tara Subkoff"
+    ],
+    "key": "LDOD",
+    "imgURL": "/thumbnails/LDOD.jpg",
+    "publishDate": "3/25/22",
+    "postURL": "../posts/LDOD"
+  },
+  {
+    "title": "Ashes and Diamonds",
+    "director": "Andrzej Wajda",
+    "year": "1958",
+    "country": "Poland",
+    "languages": "Polish",
+    "cast": [
+      "Zbigniew Cybulski",
+      "Ewa Krzyzewska",
+      "Adam Pawlikowski",
+      "Waclaw Zastrzezynski",
+      "Bogumil Kobiela",
+      "Jan Ciecierski"
+    ],
+    "key": "AAD",
+    "imgURL": "/thumbnails/AAD.jpeg",
+    "publishDate": "3/13/22",
+    "postURL": "../posts/AAD"
+  },
+  {
+    "title": "The Brown Bunny",
+    "director": "Vincent Gallo",
+    "year": "2003",
+    "country": "United States of America",
+    "languages": "English",
+    "cast": ["Vincent Gallo", "Chloe Sevigny"],
+    "key": "TBB",
+    "imgURL": "/thumbnails/TBB.jpg",
+    "publishDate": "2/2/22",
+    "postURL": "../posts/TBB"
+  },
+  {
+    "title": "Preparations to be Together for an Uknown Period of Time",
+    "director": "Lili Horvat",
+    "year": "2020",
+    "country": "Hungary",
+    "languages": "Hungarian",
+    "cast": ["Natasa Stork", "Viktor Bodo"],
+    "key": "PTBTFAUPOT",
+    "imgURL": "/thumbnails/PREP.jpg",
+    "publishDate": "11/28/21",
+    "postURL": "../posts/PTBTFAUPOT"
+  },
+  {
+    "title": "La Cienaga",
+    "director": "Lucrecia Martel",
+    "year": "2001",
+    "country": "Argentina",
+    "languages": "Spanish",
+    "cast": [
+      "Mercedes Moran",
+      "Graciela Borges",
+      "Martin Adjemian",
+      "Leonora Balcarce",
+      "Silvia Bayle",
+      "Sofia Bertolotto",
+      "Juan Cruz Bordeu",
+      "Noelia Bravo Herrara"
+    ],
+    "key": "LC",
+    "imgURL": "/thumbnails/LC.jpg",
+    "publishDate": "3/11/21",
+    "postURL": "../posts/LC"
+  },
+  {
+    "title": "Le Samourai",
+    "director": "Jean Pierre Melville",
+    "year": "1967",
+    "country": "France",
+    "languages": "French",
+    "cast": ["Alain Delon", "François Périer", "Nathalie Delon"],
+    "key": "LS",
+    "imgURL": "/thumbnails/LS.jpeg",
+    "publishDate": "08/17/2020",
+    "postURL": "../posts/LS"
+  },
+  {
+    "title": "Death in Venice",
+    "director": "Luchino Visconti",
+    "year": "1971",
+    "country": "Italy",
+    "languages": "English",
+    "cast": [
+      "Dirk Bogarde",
+      "Björn Andrésen",
+      "Mark Burns",
+      "Romolo Valli",
+      "Nora Ricci",
+      "Marisa Berenson",
+      "Carole André",
+      "Silvana Mangano"
+    ],
+    "key": "DIV",
+    "imgURL": "/thumbnails/DIV.jpeg",
+    "publishDate": "8/12/2020",
+    "postURL": "../posts/DIV"
+  },
+  {
+    "title": "Vivre Sa Vie & Simulation",
+    "director": "Jean-Luc Godard",
+    "year": "1962",
+    "country": "France",
+    "languages": "French",
+    "cast": ["Anna Karina", "Sady Rebbot", "André S. Labarthe"],
+    "key": "VSV",
+    "imgURL": "/thumbnails/VSV.jpeg",
+    "publishDate": "8/22/2020",
+    "postURL": "../posts/VSV"
+  },
+  {
+    "title": "Father Of My Children",
+    "director": "Mia Hansen-Løve",
+    "year": "2009",
+    "country": "France",
+    "languages": "French",
+    "cast": ["Louis-Do de Lencquesaing", "Chiara Caselli"],
+    "key": "FOTC",
+    "imgURL": "/thumbnails/FOTC.jpg",
+    "publishDate": "8/19/2020",
+    "postURL": "../posts/FOTC"
+  },
+  {
+    "title": "Life Is Sweet",
+    "director": "Mike Leigh",
+    "year": "1990",
+    "country": "United Kingdom",
+    "languages": "English",
+    "cast": [
+      "Alison Steadman",
+      "Jim Broadbent",
+      "Claire Skinner",
+      "Jane Horrocks",
+      "Stephen Rhea",
+      "Timothy Spall"
+    ],
+    "key": "LIS",
+    "imgURL": "/thumbnails/LIS.jpeg",
+    "publishDate": "08/17/2020",
+    "postURL": "../posts/LIS"
+  },
+  {
+    "title": "Tiny Furniture",
+    "director": "Lena Dunham",
+    "year": "2009",
+    "country": "United States",
+    "languages": "English",
+    "cast": [
+      "Lena Dunham",
+      "Laurie Simmons",
+      "Grace Dunham",
+      "David Call",
+      "Alex Karpovsky",
+      "Jemima Kirke",
+      "Amy Seimetz",
+      "Merritt Wever"
+    ],
+    "key": "TF",
+    "imgURL": "/thumbnails/TF.jpeg",
+    "publishDate": "8/04/2020",
+    "postURL": "../posts/TF"
+  },
+  {
+    "title": "The Sacrifice",
+    "director": "Andrei Tarkovsky",
+    "year": "1986",
+    "country": "USSR, Sweden",
+    "languages": "Swedish",
+    "cast": [
+      "Erland Josephson",
+      "Susan Fleetwood",
+      "Filippa Franzén",
+      "Tommy Kjellqvist",
+      "Sven Wollter",
+      "Valérie Mairesse",
+      "Guðrún Gísladóttir"
+    ],
+    "key": "TS",
+    "imgURL": "/thumbnails/TS.jpeg",
+    "publishDate": "8/10/2020",
+    "postURL": "../posts/TS"
+  },
+  {
+    "title": "Grey Gardens",
+    "director": "David Maysles, Albert Maysles",
+    "year": "1975",
+    "country": "United States",
+    "languages": "English",
+    "cast": [
+      "Edith “Big Edie” Bouvier Beale",
+      "Edith “Little Edie” Bouvier Beale",
+      "Jerry Torre"
+    ],
+    "key": "GG",
+    "imgURL": "/thumbnails/GG.jpeg",
+    "publishDate": "8/03/2020",
+    "postURL": "../posts/GG"
+  },
+  {
+    "title": "The Other Side of Hope",
+    "director": "Aki Kaurismaki",
+    "year": "2017",
+    "country": "Finland",
+    "languages": "Finnish",
+    "cast": ["Sherwan Haji", "Sakari Kuosmanen"],
+    "key": "TOSOH",
+    "imgURL": "/thumbnails/TOSOH.jpeg",
+    "publishDate": "7/28/2020",
+    "postURL": "../posts/TOSOH"
+  },
+  {
+    "title": "Wings Of Desire",
+    "director": "Wim Wenders",
+    "year": "1987",
+    "country": "West German",
+    "languages": "German",
+    "cast": [
+      "Bruno Ganz",
+      "Solveig Dommartin",
+      "Otto Sander",
+      "Curt Bois",
+      "Peter Falk"
+    ],
+    "key": "WOD",
+    "imgURL": "/thumbnails/WOD.jpeg",
+    "publishDate": "7/30/2020",
+    "postURL": "../posts/WOD"
+  },
+  {
+    "title": "Lady Snowblood",
+    "director": "Toshiya Fujita",
+    "year": "1973",
+    "country": "Japan",
+    "languages": "Japanese",
+    "cast": [
+      "Meiko Kaji",
+      "Toshio Kurosawa",
+      "Masaaki Daimon",
+      "Miyoko Akaza",
+      "Shinichi Uchida",
+      "Takeo Chii"
+    ],
+    "key": "LSB",
+    "imgURL": "/thumbnails/LSB.jpeg",
+    "publishDate": "7/31/2020",
+    "postURL": "../posts/LSB"
+  },
+  {
+    "title": "Stranger than Paradise",
+    "director": "Jim Jarmusch",
+    "year": "1984",
+    "country": "United States",
+    "languages": "English, Hungarian",
+    "cast": ["John Lurie", "Ezter Balint", "Richard Edson"],
+    "key": "STP",
+    "imgURL": "/thumbnails/STP.jpeg",
+    "publishDate": "7/21/2020",
+    "postURL": "../posts/STP"
+  },
+  {
+    "title": "Memories of Underdevelopment",
+    "director": "Tomás Gutiérrez Alea",
+    "year": "1968",
+    "country": "Cuba",
+    "languages": "Spanish",
+    "cast": ["Sergio Corrieri", "Daisy Granados"],
+    "key": "MOU",
+    "imgURL": "/thumbnails/MOU.jpeg",
+    "publishDate": "7/20/2020",
+    "postURL": "../posts/MOU"
+  },
+  {
+    "title": "The River",
+    "director": "Jean Renoir",
+    "year": "1951",
+    "country": "United States",
+    "languages": "English, Hindi",
+    "cast": [
+      "Nora Swinburne",
+      "Esmond Knight",
+      "Arthur Shields",
+      "Suprova Mukerjee",
+      "Thomas E. Breen",
+      "Patricia Walters",
+      "Radha Burnier",
+      "Adrienne Corri"
+    ],
+    "key": "TR",
+    "imgURL": "/thumbnails/TR.jpeg",
+    "publishDate": "7/18/2020",
+    "postURL": "../posts/TR"
+  },
+  {
+    "title": "Certified Copy",
+    "director": "Abbas Kiarostami",
+    "year": "1968",
+    "country": "French",
+    "languages": "English, French, Italian",
+    "cast": ["William Shimell", "Juliette Binoche"],
+    "key": "CC",
+    "imgURL": "/thumbnails/CC.jpeg",
+    "publishDate": "7/16/2020",
+    "postURL": "../posts/CC"
+  }
+]

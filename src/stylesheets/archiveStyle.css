@@ -1,0 +1,41 @@
+@media (max-width: 500px) {
+  .utilityBox {
+    flex-direction: column;
+    height: 10rem;
+  }
+
+  .searchBar {
+    height: 5rem;
+  }
+}
+
+.utilityBox {
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  row-gap: 1rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 0rem 1rem 0rem 1rem;
+}
+
+.searchBar {
+  width: 15rem;
+  height: 3rem;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  padding-left: 1rem;
+  font-family: ivymode;
+  border: 2px solid #9a8d13;
+}
+
+.toggleButton {
+  width: 8rem;
+  height: 4rem;
+  border-radius: 5px;
+  color: #fff;
+  font-family: ivymode;
+  border: 2px solid #9a8d13;
+  background-color: #9a8d13;
+  cursor: pointer;
+}

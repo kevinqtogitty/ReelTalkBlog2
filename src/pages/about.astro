@@ -1,0 +1,24 @@
+---
+import BaseHead from '../components/astro_components/BaseHead.astro';
+import About from '../components/astro_components/About.astro';
+
+import Subscribe from '../components/reactJSX_components/Subscribe';
+import NavBar from '../components/astro_components/NavBar.astro';
+---
+
+<html lang="en">
+  <head>
+    <BaseHead />
+    <style>
+      * {
+        font-family: ivymode, sans-serif;
+        margin: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <NavBar />
+    <About />
+    <Subscribe />
+  </body>
+</html>

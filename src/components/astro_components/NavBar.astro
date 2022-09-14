@@ -1,0 +1,103 @@
+---
+
+---
+<style>
+  @media (max-width: 500px) {
+  .navBar {
+    flex-direction: column;
+    height: auto;
+  }
+
+  h1 {
+    margin-bottom: -0.2rem;
+  }
+}
+
+.navBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  width: 100%;
+  min-height: 6rem;
+  position: sticky;
+  top: 0;
+  opacity: 0.9;
+  font-family: ivymode, sans-serif;
+}
+
+h1 {
+  color: #9a8d13;
+  padding-left: 1rem;
+  cursor: pointer;
+  font-size: 2rem;
+  width: fit-content;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+h1,
+ul {
+  letter-spacing: 0.05em;
+}
+
+.navLinks {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #fff;
+  padding: 0px;
+}
+
+.navBar > ul > a > li {
+  list-style: none;
+  margin: 0 1em;
+  color: black;
+  cursor: pointer;
+}
+
+.underline {
+  display: inline-block;
+  position: relative;
+  color: black;
+}
+
+.underline:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+
+.underline:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+a {
+  text-decoration: none;
+}
+
+</style>
+    <nav class="navBar">
+      <a href="/">
+        <h1>Reel Talk</h1>
+      </a>
+      <ul class="navLinks">
+        <a href="/">
+          <li class="underline">Home</li>
+        </a>
+        <a href="/about/">
+          <li class="underline">About</li>
+        </a>
+        <a href="/archive/">
+          <li class="underline">Archive</li>
+        </a>
+      </ul>
+    </nav>

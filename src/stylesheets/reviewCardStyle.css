@@ -1,0 +1,8 @@
+.reviewImg {
+  border: 5px solid white;
+  border-radius: 10px;
+}
+
+.reviewImg:hover {
+  border: 5px solid #9a8d13;
+}
