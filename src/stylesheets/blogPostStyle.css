@@ -39,7 +39,7 @@ img {
 
 section {
   margin: 0 auto;
-  max-width: 40rem;
+  max-width: 100%;
   display: flex;
   flex-direction: column;
   align-content: center;
@@ -47,8 +47,19 @@ section {
 
 .main-content {
   line-height: 2em;
+  max-width: 40rem;
+}
+
+.post-info {
+  max-width: 40rem;
 }
 
 a {
   text-decoration: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
