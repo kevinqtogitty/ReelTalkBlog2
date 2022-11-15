@@ -32,51 +32,40 @@ export default function Archive() {
         </button>
       </div>
       {toggleView === false ? (
-        <div
-          style={{
-            width: '100%'
-          }}
-        >
-          {searchQuery === '' ? (
-            <>
-              {' '}
-              {reviews.map((review, index) => (
-                <div style={{ width: 'fit-content' }} key={index}>
-                  <a href={review.postURL}>
-                    <li style={{ paddingLeft: '1rem' }}>
-                      {review.title} - {review.publishDate}
-                    </li>
-                  </a>
-                </div>
-              ))}
-            </>
-          ) : (
-            <>
-              {reviews.map((review) =>
-                review.title
-                  .toLowerCase()
-                  .includes(searchQuery.toLowerCase()) ? (
-                  <div style={{ width: 'fit-content' }}>
+        <div>
+          <ul>
+            {searchQuery === '' ? (
+              <>
+                {' '}
+                {reviews.map((review, index) => (
+                  <li>
                     <a href={review.postURL}>
-                      <li>
-                        {review.title} - {review.publishDate}
-                      </li>
+                      {review.title} - {review.publishDate}
                     </a>
-                  </div>
-                ) : null
-              )}{' '}
-            </>
-          )}{' '}
+                  </li>
+                ))}
+              </>
+            ) : (
+              <>
+                {reviews.map((review) =>
+                  review.title
+                    .toLowerCase()
+                    .includes(searchQuery.toLowerCase()) ? (
+                    <div style={{ width: 'fit-content' }}>
+                      <a href={review.postURL}>
+                        <li>
+                          {review.title} - {review.publishDate}
+                        </li>
+                      </a>
+                    </div>
+                  ) : null
+                )}
+              </>
+            )}
+          </ul>
         </div>
       ) : (
-        <div
-          style={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            width: '100%',
-            justifyContent: 'space-evenly'
-          }}
-        >
+        <div className="archiveCardWrapper">
           {searchQuery === ''
             ? reviews.map((review, index) => (
                 <ReviewCard review={review} key={index} />
