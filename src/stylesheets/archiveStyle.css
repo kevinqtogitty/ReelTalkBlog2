@@ -39,3 +39,10 @@
   background-color: #9a8d13;
   cursor: pointer;
 }
+
+.archiveCardWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-evenly;
+}
