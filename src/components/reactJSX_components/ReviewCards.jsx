@@ -5,19 +5,9 @@ export default function ReviewCard(props) {
   return (
     <section>
       <div className="card">
-        <div className="post-title">
+        <div className="title">
           <a href={props.review.postURL}>
-            <div
-              style={{
-                display: 'flex',
-                flexWrap: 'wrap',
-                width: '15rem',
-                justifyContent: 'center',
-                marginBottom: '1rem'
-              }}
-            >
-              {props.review.title}
-            </div>
+            <div className="title-card">{props.review.title}</div>
           </a>
         </div>
         <div className="thumbnail">
