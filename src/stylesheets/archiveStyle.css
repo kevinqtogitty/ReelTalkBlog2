@@ -46,3 +46,7 @@
   width: 100%;
   justify-content: space-evenly;
 }
+
+.reviewCardWrapper {
+  width: fit-content;
+}
