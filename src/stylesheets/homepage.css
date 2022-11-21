@@ -47,3 +47,9 @@ li {
   width: fit-content;
   margin-bottom: 0.5rem;
 }
+
+.postCardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
