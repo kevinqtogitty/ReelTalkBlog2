@@ -51,7 +51,7 @@ export default function Archive() {
                   review.title
                     .toLowerCase()
                     .includes(searchQuery.toLowerCase()) ? (
-                    <div style={{ width: 'fit-content' }}>
+                    <div className="reviewCardWrapper">
                       <a href={review.postURL}>
                         <li>
                           {review.title} - {review.publishDate}
