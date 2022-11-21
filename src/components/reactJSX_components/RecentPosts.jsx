@@ -6,13 +6,7 @@ import ReviewCard from './ReviewCards';
 export default function RecentPosts() {
   const reviews = json.map((review) => review);
   return (
-    <div
-      style={{
-        display: 'flex',
-        flexWrap: 'wrap',
-        justifyContent: 'space-around'
-      }}
-    >
+    <div className="postCardContainer">
       {reviews.slice(0, 6).map((review, index) => (
         <ReviewCard review={review} key={index} />
       ))}
